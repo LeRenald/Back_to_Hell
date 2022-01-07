@@ -14,7 +14,7 @@ The game is a 2D platformer endless runner
 
 
 ### Overview
-[![thumbnail]](https://www.youtube.com/watch?v=YRR-JEU-Hxw)
+[![thumbnail]](https://www.youtube.com)
 
 
 ## My contribution
