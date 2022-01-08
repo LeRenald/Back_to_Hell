@@ -3,7 +3,7 @@
 
 ### Concept
 ***Back to Hell*** is a school project produced during one month in a team of 10 students. The objective was to create a 2D mobile game.
-The game is a 2D platformer endless runner
+The game is a 2D platformer endless runner, it is played alone on mobile (only Android).
 
 ### Rules
 
@@ -11,7 +11,7 @@ The game is a 2D platformer endless runner
 
 ### Programming
 
-
+Made with C# on Unity3D. Built for Android with the Android SDK, NDK and openJDK Unity modules.
 
 ### Overview
 [![thumbnail]](https://www.youtube.com)
@@ -19,7 +19,12 @@ The game is a 2D platformer endless runner
 
 ## My contribution
 
-It was the third project I made in a team but the first one we tried to make on the mobile platform, like for everyone too in the team. We were 5 programmers and 5 graphic artists.
+It was the third project I made in a team but the first one we tried to make on the mobile platform, like for everyone too in the team. We were 5 programmers and 5 graphic artists. As a team of only programmers and graphic artists, none of us were sound designer. So I chose to take on the SFX work, using audacity to edit and mix already existing sounds. I came up with different sounds for the actions and skills of the player and enemies, interactions and UI audio feedbacks. That was an interesting experience, but not my favourite though.
+
+/// SOUNDS to click ///
+
+As a very first mobile developement experience, it was thus also the first I had with touch screen inputs. I learnt and use the Unity API for touch inputs , controls, system
+
 
 ## Credits
 
@@ -41,6 +46,6 @@ Thanks to the school [Creajeux](https://www.creajeux.fr/) (Nîmes, France) where
 
 
 <!-- MEDIA FILES -------------------------------------------------------------------------------------------->
-[title]: 
+[title]: Back_to_Hell_title.jpg
 [thumbnail]: 
 
