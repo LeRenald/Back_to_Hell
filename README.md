@@ -1,8 +1,6 @@
 # Back_to_Hell
 ![title]
 
----
-
 ### Concept
 
 ***Back to Hell*** is a school project produced during one month in a team of 10 students. The objective was to create a 2D mobile game.
