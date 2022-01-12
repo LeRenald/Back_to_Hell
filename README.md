@@ -1,6 +1,5 @@
 # Back_to_Hell
 ![title]
-![video](come plya with me .mp4)
 
 ### Concept
 
