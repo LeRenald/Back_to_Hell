@@ -22,7 +22,7 @@ Made with C# on Unity3D. Built for Android with the Android SDK, NDK and openJDK
 
 It was the third project I made in a team but the first one we tried to make on the mobile platform, like for everyone too in the team. We were 5 programmers and 5 graphic artists. As a team of only programmers and graphic artists, none of us were sound designer. So I chose to take on the SFX work, using audacity to edit and mix already existing sounds. I came up with different sounds for the actions and skills of the player and enemies, interactions and UI audio feedbacks. That was an interesting experience, but not my favourite though.
 Some exemples :
-- pig enemy deploying shield : ![icon_dark](https://mega.nz/file/EfA3jCyQ#vShNj7ocOngT-bYNi4JGowSxk7cZKNRZm8_wmcCYPIM)
+- pig enemy deploying shield : [![icon_dark]](https://mega.nz/file/EfA3jCyQ#vShNj7ocOngT-bYNi4JGowSxk7cZKNRZm8_wmcCYPIM)
 - y
 
 
@@ -53,5 +53,5 @@ Thanks to the school [Creajeux](https://www.creajeux.fr/) (Nîmes, France) where
 [title]: Back_to_Hell_title.jpg
 [thumbnail]: Back_to_Hell_thumbnail.jpg
 [sound_dark]: sound_dark_icon.png
-[sound_light]: sound_light_icon.png#gh-dark-mode-only
+<!-- [sound_light]: sound_light_icon.png#gh-dark-mode-only -->
 
