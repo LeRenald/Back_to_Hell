@@ -23,6 +23,12 @@ Made with C# on Unity3D. Built for Android with the Android SDK, NDK and openJDK
 It was the third project I made in a team but the first one we tried to make on the mobile platform, like for everyone too in the team. We were 5 programmers and 5 graphic artists. As a team of only programmers and graphic artists, none of us were sound designer. So I chose to take on the SFX work, using audacity to edit and mix already existing sounds. I came up with different sounds for the actions and skills of the player and enemies, interactions and UI audio feedbacks. That was an interesting experience, but not my favourite though.
 
 Some exemples :
+| :------------------------- | :-----------------------------------------------------------------------------------: |
+| pig enemy deploying shield | [![sound]](https://mega.nz/file/EfA3jCyQ#vShNj7ocOngT-bYNi4JGowSxk7cZKNRZm8_wmcCYPIM) |
+| player attacking           | [![sound]](https://mega.nz/file/NTRAiBrI#kOdRmTiRudt2O8rMePxS4BPNrf-wenHBC_v2RiZDnSI) |
+| travel boost               | [![sound]](https://mega.nz/file/NfJi2Jgb#z1fJ3xJ9Xeopavx0k6Ru7rFEN1dYKhCYWSXNqDH-DdI) |
+| item collecting            | [![sound]](https://mega.nz/file/xXQRgQhQ#j2IP8ngniwJ8Aq-zW5dvCo5Mv1QUD3Rp1kg_vYpwx-s) |
+
 - pig enemy deploying shield : [![sound]](https://mega.nz/file/EfA3jCyQ#vShNj7ocOngT-bYNi4JGowSxk7cZKNRZm8_wmcCYPIM)
 - player attacking : [![sound]](https://mega.nz/file/NTRAiBrI#kOdRmTiRudt2O8rMePxS4BPNrf-wenHBC_v2RiZDnSI)
 - travel boost : [![sound]](https://mega.nz/file/NfJi2Jgb#z1fJ3xJ9Xeopavx0k6Ru7rFEN1dYKhCYWSXNqDH-DdI)
