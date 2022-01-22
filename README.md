@@ -15,7 +15,7 @@ The game is a 2D platformer endless runner, it is played alone on mobile (only A
 Made with C# on Unity3D. Built for Android with the Android SDK, NDK and openJDK Unity modules.
 
 ### Overview
-[![thumbnail]](https://www.youtube.com)
+[![thumbnail_overview]](https://www.youtube.com)
 
 
 ## My contribution
@@ -33,6 +33,7 @@ Some exemples :
 
 As a very first mobile developement experience, it was thus also the first I had with touch screen inputs. I learnt and use the Unity API's part for touch inputs for the first time. I implemented the input system for the touch controls to detect different touch movements on the same touch area. The two touch areas are the left and right side of the screen, where you use the thumbs.
 
+[![thumbnail_touchcontrols]](https://www.youtube.com)
 
 
 ## Credits
