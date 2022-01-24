@@ -63,4 +63,3 @@ Thanks to the school [Creajeux](https://www.creajeux.fr/) (Nîmes, France) where
 [thumbnail_overview]: Back_to_Hell_thumbnail_01.jpg
 [thumbnail_touchcontrols]: Back_to_Hell_thumbnail_02.jpg
 [sound]: sound_icon.png
-
