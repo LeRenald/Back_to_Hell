@@ -8,14 +8,17 @@ The game is a 2D platformer endless runner, it is played alone on mobile (only A
 
 ### Rules
 
-
+As the world scrolls faster and faster, the running player have to dodge the ground holes and the enemies or kill them. The goal is to reach the farthest distance as a best score.
+There are three types of enemies : an archer lizard shooting arrow that create mud puddle slowing you while you walk in, a small elf running fast towards you (the only non-static enemy) and a soldier pig raising a shield wall to block you while the camera continue to move forward until you are out of its field of view and instantly lose. Every enemy has an hit box damaging you once when you collide with it, making you lose one out of three health points. 
+You can touch the rigt side of the screen to kill them with your sword in one shot. You can dodge them as well as the holes by touching the left side of the screen to jump, and you even have the ability to dash forward by sliding a finger on the screen's right side towards the right, it allows you to avoid colliding any enemy hitbox and quickly move forward.
+The game provides a mini shop to unlock a double jump ability and upgrade the dash's cooldown and travel distance for money from coinq you can collect across the world. You can also meet sometimes a special flying coin that will give you a short powerful boost that makes you travel a certain distance very quickly without heigh fall-off.
 
 ### Programming
 
-Made with C# on Unity3D. Built for Android with the Android SDK, NDK and openJDK Unity modules.
+Made with C# on Unity3D. Built for Android with the Android SDK, NDK and openJDK.
 
 ### Overview
-[![thumbnail_overview]](https://www.youtube.com)
+[![thumbnail_overview]](https://www.youtube.com/watch?v=rFTgVmh7c4g)
 
 
 ## My contribution
