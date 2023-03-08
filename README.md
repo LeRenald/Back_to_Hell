@@ -41,7 +41,7 @@ As a very first mobile developement experience, it was thus also the first I had
 
 ## Credits
 
-Thanks to the school [Creajeux](https://www.creajeux.fr/) (Nîmes, France) where this poject was carried out with my 9 other coworkers :
+Thanks to the school [Creajeux](https://www.creajeux.fr/) (Nîmes, France) where this project was carried out with my 9 other coworkers :
 
 #### Graphic artists
 - Alex WISSLER
